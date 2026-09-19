@@ -1,0 +1,6 @@
+{
+  "name": "Person Card Collection",
+  "description": "A shared digital collection of person cards backed by Supabase PostgreSQL, Storage, and Realtime with search, filtering, and public card creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
